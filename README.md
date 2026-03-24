@@ -44,16 +44,7 @@ graph LR
 
 ---
 
-## 📸 AWS Integration & Demo
 
-<div align="center">
-  <em>(Screenshots of the AWS Analytics Layer — S3 Bucket & Athena Query Results)</em>
-  
-  ![Athena Query Demo](./docs/athena_demo.png)
-  *(Replace with actual Athena screenshot)*
-</div>
-
----
 
 ## ⚙️ Build & Run Locally
 
