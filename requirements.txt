@@ -1,0 +1,4 @@
+kafka-python-ng
+python-dotenv==1.0.1
+boto3==1.34.69
+faker==24.3.0
